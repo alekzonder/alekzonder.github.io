@@ -4,9 +4,9 @@
   <subtitle>web dev</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://alekzonder.github.io/"/>
+  <link href="https://alekzonder.github.io/"/>
   <updated>2017-05-12T06:53:18.000Z</updated>
-  <id>http://alekzonder.github.io/</id>
+  <id>https://alekzonder.github.io/</id>
   
   <author>
     <name>alekzonder</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://alekzonder.github.io/2017/05/12/hello-world/"/>
-    <id>http://alekzonder.github.io/2017/05/12/hello-world/</id>
+    <link href="https://alekzonder.github.io/2017/05/12/hello-world/"/>
+    <id>https://alekzonder.github.io/2017/05/12/hello-world/</id>
     <published>2017-05-12T06:53:18.000Z</published>
     <updated>2017-05-12T06:53:18.000Z</updated>
     

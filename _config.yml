@@ -12,7 +12,7 @@ timezone: Asia/Novosibirsk
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://alekzonder.github.io
+url: https://alekzonder.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,6 +70,8 @@ yandex:
 
 google:
     id: "UA-10584098-4"
+
+disqus_shortname: alekzonder
 
 feed:
   type: atom

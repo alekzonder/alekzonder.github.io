@@ -1,4 +1,5 @@
 <footer id="footer">
+
 <% if (config.disqus_shortname){ %>
 <script>
   var disqus_shortname = '<%= config.disqus_shortname %>';
@@ -14,6 +15,7 @@
   })();
 </script>
 <% } %>
+
   <% if (theme.sidebar === 'bottom'){ %>
     <%- partial('_partial/sidebar') %>
   <% } %>
